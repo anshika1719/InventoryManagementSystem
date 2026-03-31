@@ -48,27 +48,32 @@ A scalable **Order & Inventory Management System** built using **Spring Boot mic
 ---
 
 ## ⚙️ How to Run the Project
-✅ 1. Start Config Server
+✅ 1. Start Config Server --
 mvn spring-boot:run
 
-✅ 2. Start Eureka Server
+✅ 2. Start Eureka Server --
 mvn spring-boot:run
 
-✅ 3. Start Gateway Service
+✅ 3. Start Gateway Service --
 mvn spring-boot:run
 
-✅ 4. Start Each Microservice
+✅ 4. Start Each Microservice --
 mvn spring-boot:run
 
-✅ 5. Start UI (OrderlyUI)
+✅ 5. Start UI (OrderlyUI) --
 npm install
 npm start
 
 ***📈 Future Enhancements***
 Role-based access control (RBAC)
+
 Real-time inventory alerts
+
 Reporting & analytics dashboard
+
 Kafka-based async events
+
 Email/SMS notification service
+
 Payment integration
 
