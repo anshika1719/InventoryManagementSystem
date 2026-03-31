@@ -48,7 +48,6 @@ A scalable **Order & Inventory Management System** built using **Spring Boot mic
 ---
 
 ## ⚙️ How to Run the Project
-
 ✅ 1. Start Config Server
 ```bash
 mvn spring-boot:run
